@@ -1,12 +1,10 @@
-header {
-     #ecedf3;
+header {     
     height: 150px;
 }
 
 header ul li {
-    padding-right: 10px;
+    padding-right: 30px;
 }
-
 
 header ul li .material-icons {
     font-size: 50px;
@@ -16,3 +14,13 @@ header ul li .material-icons {
 header ul li a {
     font-weight: 500;
 }
+
+@media screen and (max-width: 650px) {
+    header ul li {
+        padding-right: 5px;        
+    }
+    header ul li a {
+        font-size: 12px;
+    }
+   
+  }
