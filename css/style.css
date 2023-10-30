@@ -1,5 +1,13 @@
-header {     
-    height: 150px;
+*, .row, .col {
+    margin: 0;
+    padding: 0;
+}
+
+header ul {
+    display: flex; 
+    justify-content: center;  
+    background-color: #F4F5FA; 
+    padding: 20px 0;
 }
 
 header ul li {
@@ -14,6 +22,32 @@ header ul li .material-icons {
 header ul li a {
     font-weight: 500;
 }
+
+
+
+
+.new-gener img {
+    margin-top: 80px;
+}
+
+.new-gener h6 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.new-gener p {
+    width: 80%; 
+    margin: 0 auto; 
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
 
 @media screen and (max-width: 650px) {
     header ul li {
