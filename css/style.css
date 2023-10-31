@@ -128,6 +128,58 @@ header ul li a {
 
 
 
+.brooks {
+    margin-top: 40px;
+}
+
+
+.discover p {
+    padding: 50px 0;
+}
+
+.discover p a {
+    border: 2px solid grey; 
+    padding: 0 40px;
+}
+
+.go {
+    margin-top: 60px;
+}
+
+.go .material-icons {
+    font-size: 50px;
+}
+
+.go p {
+    font-size: 18px;
+}
+
+.go .file-path-wrapper {
+    border: 1px solid gray;
+}
+
+.go .file-path-wrapper .validate {
+    font-style: italic;
+}
+
+form {
+    width: 40%;
+    margin: 0 auto;
+}
+
+form .filled1  {
+    margin-left: 20px;
+}
+
+input.file-path.validate {
+    margin: 0;
+    border: none;
+}
+
+
+
+
+
 
 
 
