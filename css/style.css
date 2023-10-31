@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+
+
 header ul {
     display: flex; 
     justify-content: center;  
@@ -25,6 +27,13 @@ header ul li a {
 
 
 
+.divider {
+    width: 20%; 
+    margin: 0 auto;
+}
+
+
+
 
 .new-gener img {
     margin-top: 80px;
@@ -41,6 +50,80 @@ header ul li a {
     margin-bottom: 50px;
 }
 
+
+
+.vintage img {
+    margin-top: 20px;
+}
+
+.vintage h6 {
+    font-weight: 500; 
+    margin-bottom: 20px;
+}
+
+.vintage p {
+    text-align: start;
+}
+
+.vintage img .img1 {
+    margin-top: 37px;
+}
+
+.boriosa img {
+    margin-top: 20px;
+}
+
+.boriosa h6 {
+    font-weight: 500; 
+    margin-bottom: 20px;
+}
+
+.boriosa p {
+    text-align: start;
+}
+
+.boriosa img .img2 {
+    margin-top: 37px;
+}
+
+
+
+.retro img {
+    margin-top: 20px;
+}
+
+.retro h6 {
+    font-weight: 500; 
+    margin-bottom: 20px;
+}
+
+.retro p {
+    text-align: start;
+}
+
+.retro img .img3 {
+    margin-top: 37px;
+}
+
+
+
+
+.slider .slides li img {
+    width: 48px;
+}
+
+.slider .slides li h3 {
+    font-size: 20px;
+}
+
+.slider .slides li h5 {
+    font-size: 18px;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: gray;
+    
+}
 
 
 
